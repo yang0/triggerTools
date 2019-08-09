@@ -1,5 +1,5 @@
 # triggerTools
-python index.py  
+执行： python index.py  
 
 用来生成sql脚本的小工具：  
 1 生成从A表到B表的全量数据拷贝sql: insert into select...    
